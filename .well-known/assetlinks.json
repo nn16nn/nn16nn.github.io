@@ -1,8 +1,13 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "io.github.nn16nn.qarzhy",
-        "sha256_cert_fingerprints": ["4B:CE:C9:7C:69:05:30:F9:9B:55:3D:78:DB:07:B6:FF:A2:BB:D5:6E:76:1B:76:ED:68:B3:A8:B3:BA:5C:12:A9"]
-      }
-    }]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.nn16nn.qarzhy",
+      "sha256_cert_fingerprints": [
+        "1C:9E:59:20:A9:D3:2D:50:9A:69:A0:24:0B:6F:34:1E:7E:E1:6C:DE:27:F7:29:25:D5:4B:6A:11:B5:B5:19:BD",
+        "4B:CE:C9:7C:69:05:30:F9:9B:55:3D:78:DB:07:B6:FF:A2:BB:D5:6E:76:1B:76:ED:68:B3:A8:B3:BA:5C:12:A9"
+      ]
+    }
+  }
+]
