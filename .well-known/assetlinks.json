@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.nn16nn.qarzhy",
+        "sha256_cert_fingerprints": ["4B:CE:C9:7C:69:05:30:F9:9B:55:3D:78:DB:07:B6:FF:A2:BB:D5:6E:76:1B:76:ED:68:B3:A8:B3:BA:5C:12:A9"]
+      }
+    }]
